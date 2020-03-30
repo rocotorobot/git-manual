@@ -16,3 +16,16 @@ Estos comandos son muy buenos
 	git commit -v : Verboso agrega diff al final
 	git commit -m "Mensaje de commit"
 - git rm FILE: esto elimina el FILE del repo y del WORKING 
+- git remote add origin URL:
+
+- git remote show origin:
+
+- git push origin master:
+
+- git pull origin master:
+
+
+Agrega + comandos
+
+
+
