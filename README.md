@@ -16,3 +16,5 @@ Estos comandos son muy buenos
 	git commit -v : Verboso agrega diff al final
 	git commit -m "Mensaje de commit"
 - git rm FILE: esto elimina el FILE del repo y del WORKING 
+
+- git checkout RAMA: cambia de rama
