@@ -23,6 +23,10 @@ Estos comandos son muy buenos
 
 - git remote show origin:
 
+- git clone URL
+
+- git fetch:
+
 - git push origin master:
 
 - git pull origin master:
