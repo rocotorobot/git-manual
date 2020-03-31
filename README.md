@@ -18,3 +18,19 @@ Estos comandos son muy buenos
 - git rm FILE: esto elimina el FILE del repo y del WORKING 
 
 - git checkout RAMA: cambia de rama
+
+- git remote add origin URL:
+
+- git remote show origin:
+
+- git push origin master:
+
+- git pull origin master:
+
+
+Agrega + comandos
+
+
+Linea agregada desde otra cuenta de github.com por el usuario Djaque
+
+Nueva linea de ejemplo
